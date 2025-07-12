@@ -5,9 +5,9 @@ function Need() {
   return (
     <div>
       <div>
-        <div className="flex justify-between px-28 flex-wrap ">
-          <div>
-            <div className="w-[600px] py-10  h-32 flex flex-col  pl-6 justify-center  hover:shadow-md">
+        <div className=" p-16flex justify-between md:px-28 flex-wrap ">
+          <div className="w-[400px]">
+            <div className="w-[400px] md:w-[600px] py-10  h-32 flex flex-col  pl-6 justify-center  hover:shadow-md">
               <h1 className="text-lg font-bold">
                 Why Choose Us for Your House Needs?
               </h1>
@@ -17,7 +17,7 @@ function Need() {
                 omnis eveniet, mollitia unde
               </p>
             </div>
-            <div className="w-[600px] h-32 flex flex-col  pl-6 justify-center  shadow-md">
+            <div className=" w-[400px] md:w-[600px] h-32 flex flex-col  pl-6 justify-center  shadow-md">
               <div className="flex items-center gap-2 ">
                 <FaCheck className="px-2 py-2 bg-black text-white rounded-full text-3xl" />
                 <h1 className="text-2xl font-bold">Comporteble Home Design</h1>
@@ -29,7 +29,7 @@ function Need() {
               </p>
             </div>
 
-            <div className="w-[600px] h-32 flex flex-col  pl-6 justify-center hover:shadow-md ">
+            <div className=" w-[400px] md:w-[600px] h-32 flex flex-col  pl-6 justify-center hover:shadow-md ">
               <div className="flex items-center gap-2 ">
                 <FaCheck className="px-2 py-2 bg-black text-white rounded-full text-3xl" />
                 <h1 className="text-2xl font-bold">Comporteble Home Design</h1>
@@ -41,7 +41,7 @@ function Need() {
               </p>
             </div>
 
-            <div className="w-[600px] h-32 flex flex-col  pl-6 justify-center hover:shadow-md  ">
+            <div className="w-[400px] md:w-[600px] h-32 flex flex-col  pl-6 justify-center hover:shadow-md  ">
               <div className="flex items-center gap-2 ">
                 <FaCheck className="px-2 py-2 bg-black text-white rounded-full text-3xl" />
                 <h1 className="text-2xl font-bold">Comporteble Home Design</h1>
@@ -54,7 +54,7 @@ function Need() {
             </div>
           </div>
 
-          <div className="w-[40%] ">
+          <div className="px-6 ">
             <img
               className="w-[100%] h-[auto]"
               src="./public/about/houseWithAPool-BPZ8KaHT.jpg"

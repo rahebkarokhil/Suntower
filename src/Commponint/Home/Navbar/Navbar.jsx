@@ -124,8 +124,8 @@ function Navbar() {
           </div>
         </div>
       </div>
-      <div className="px-10 w-[100%] flex justify-center">
-        <div className=" h-16 z-40 justify-between border px-5 mt-1 items-center rounded-full bg-white  flex md:hidden w-[95%] fixed">
+      <div className="  flex justify-center">
+        <div className=" h-16 z-40 justify-between border px-5 mt-4 items-center rounded-full bg-white w-96 flex md:hidden  fixed">
           <div>
             <img
               className="w-10 h-10"

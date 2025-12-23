@@ -34,7 +34,7 @@ function Recent() {
           {recentdata.map((alldata) => (
             <div className="" key={alldata.id}>
               <div>
-                <div className=" cursor-pointer hover:shadow-2xl rounded-lg ">
+                <div className=" cursor-pointerrounded-lg hover:shadow-2xl duration-1000 ">
                   <Slider {...settings}>
                     {alldata.imageUrl.map((recentdata) => (
                       <div className="h-64 rounded-lg ">
@@ -104,7 +104,7 @@ function Recent() {
           {recentdata.map((alldata) => (
             <div className="" key={alldata.id}>
               <div>
-                <div className=" cursor-pointer hover:shadow-2xl rounded-lg">
+                <div className=" cursor-pointer hover:shadow-2xl rounded-lg duration-1000">
                   <Slider {...settings}>
                     {alldata.imageUrl.map((recentdata) => (
                       <div className="h-64 rounded-lg ">

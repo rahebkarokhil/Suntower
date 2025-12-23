@@ -11,15 +11,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0037.jpg",
+        img: "public/Trending/IMG-20250305-WA0037.jpg",
       },
     ],
 
@@ -43,15 +43,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0047.jpg",
+        img: "public/Trending/IMG-20250305-WA0047.jpg",
       },
     ],
 
@@ -75,15 +75,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0049.jpg",
+        img: "public/Trending/IMG-20250305-WA0049.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
     ],
 
@@ -107,15 +107,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
     ],
 
@@ -139,15 +139,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0040.jpg",
+        img: "public/Trending/IMG-20250305-WA0040.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
     ],
 
@@ -171,15 +171,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0047.jpg",
+        img: "public/Trending/IMG-20250305-WA0047.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
     ],
 
@@ -203,15 +203,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0038.jpg",
+        img: "public/Trending/IMG-20250305-WA0038.jpg",
       },
     ],
 
@@ -235,15 +235,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0040.jpg",
+        img: "public/Trending/IMG-20250305-WA0040.jpg",
       },
     ],
 
@@ -267,15 +267,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0049.jpg",
+        img: ".public/Trending/IMG-20250305-WA0049.jpg",
       },
     ],
 
@@ -299,15 +299,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0040.jpg",
+        img: "public/Trending/IMG-20250305-WA0040.jpg",
       },
     ],
 
@@ -331,15 +331,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
     ],
 
@@ -363,15 +363,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0035.jpg",
+        img: "public/Trending/IMG-20250305-WA0035.jpg",
       },
     ],
 
@@ -395,15 +395,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0040.jpg",
+        img: "public/Trending/IMG-20250305-WA0040.jpg",
       },
     ],
 
@@ -427,15 +427,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0035.jpg",
+        img: "public/Trending/IMG-20250305-WA0035.jpg",
       },
     ],
 
@@ -459,15 +459,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0035.jpg",
+        img: "public/Trending/IMG-20250305-WA0035.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
     ],
 
@@ -491,15 +491,15 @@ export const data = [
     imageUrl: [
       {
         id: 1,
-        img: "../public/Trending/IMG-20250305-WA0045.jpg",
+        img: "public/Trending/IMG-20250305-WA0045.jpg",
       },
       {
         id: 2,
-        img: "../public/Trending/IMG-20250305-WA0042.jpg",
+        img: "public/Trending/IMG-20250305-WA0042.jpg",
       },
       {
         id: 3,
-        img: "../public/Trending/IMG-20250305-WA0049.jpg",
+        img: "public/Trending/IMG-20250305-WA0049.jpg",
       },
     ],
 

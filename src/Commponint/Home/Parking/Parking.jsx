@@ -7,7 +7,7 @@ function Parking() {
         <div className="absolute w-[100%]">
           <img
             className="w-[100%] h-[25rem]"
-            src="./public/footer/IMG-20250305-WA0039.jpg"
+            src="public/footer/IMG-20250305-WA0039.jpg"
             alt=""
           />
         </div>

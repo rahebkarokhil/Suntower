@@ -3,7 +3,7 @@ import React from 'react'
 function Aboutfirst() {
   return (
     <div className="">
-      <div className="h-[228px] md:h-[410px] lg:h-[549px] xl:h-[770px] 2xl:h-[1070px]  bg-[url(./public/about/aboutHeroImg-Cq2ndqfh.png)]  bg-contain bg-no-repeat ">
+      <div className="  h-screen w-[100%] bg-[url(public/about/aboutHeroImg-Cq2ndqfh.png)]  bg-cover bg-no-repeat ">
         <h1 className=" pt-20 md:pt-28  flex justify-center  text-white md:text-3xl font-bold">
           About US
         </h1>

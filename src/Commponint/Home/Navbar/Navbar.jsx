@@ -7,19 +7,20 @@ import { MdOutlineMapsHomeWork } from "react-icons/md";
 import { MdMenuOpen } from "react-icons/md";
 import { RxCross2 } from "react-icons/rx";
 import { Link } from "react-router-dom";
+import logo from "../../../assets/Navebar/profile.jpg";
 
 function Navbar() {
   const [Dropdown, setDropdown] = useState(false);
   const [toggle, settoggle] = useState(true);
   return (
     <>
-      <div className=" flex justify-center  ">
+      <div className=" flex justify-center font-semibold  ">
         <div className="hidden w-[98%] md:flex md:z-50  sm:z-50 justify-between px-5 mt-4 items-center border rounded-full  h-16 xl:z-50  bg-white  fixed  ">
           <div>
             <a className="transition-all top-40" href="#Home">
               <img
                 className="w-10 h-10"
-                src="../public/images/suntower-Cpx2bKzv-removebg-preview.png"
+                src={logo}
                 alt=""
               />
             </a>
@@ -73,9 +74,7 @@ function Navbar() {
               </ul>
             </div>
 
-            <div className="hover:text-[#d98b46ee]">
-              <Link to="/blog">Blog</Link>
-            </div>
+        
 
             <li className="hover:text-[#d98b46ee]">Contact</li>
           </ul>
@@ -164,11 +163,6 @@ function Navbar() {
               <li className="text-sm  hover:text-[#d98b46ee]">properties</li>
             </div>
 
-            <div className="flex border-t  h-10  justify-center gap-3 items-center  ">
-              <li className="text-sm  hover:text-[#d98b46ee]">
-                <Link to="./blog">Blog</Link>
-              </li>
-            </div>
 
             <div className="flex border-t  h-10  justify-center gap-3 items-center  ">
               <li className="text-sm  hover:text-[#d98b46ee]">Bloge</li>

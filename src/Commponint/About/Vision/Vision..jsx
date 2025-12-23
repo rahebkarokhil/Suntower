@@ -5,7 +5,7 @@ function Aboutsecond() {
     <div className="">
       <div className=" grid grid-cols-1 md:grid-cols-1 bg-[#f9f9f9]  lg:grid-cols-2 xl:grid-cols-2 lg:pt-8    ">
         <div className=" px-11 ">
-          <div className="">
+          <div className=" w-[700px] h-[350px]">
             <h1 className=" text-4xl font-bold  text-center py-8">
               Our Vision
             </h1>
@@ -20,7 +20,7 @@ function Aboutsecond() {
           <div className="py-8">
             <img
               className="pb- w-[100%] h-auto  "
-              src="./public/about/OurVisionImg-B4KxZiau.png"
+              src="public/about/OurVisionImg-B4KxZiau.png"
               alt=""
             />
           </div>
@@ -30,7 +30,7 @@ function Aboutsecond() {
           <div className="">
             <img
               className="w-[100%] h-auto  "
-              src="./public/about/OurMissionImg -noixK_I3.png"
+              src="public/about/OurMissionImg -noixK_I3.png"
               alt=""
             />
           </div>

@@ -21,7 +21,7 @@ function Aboutthrdh() {
         <div className="  lg:h-[600px] lg:w-[1000px] ">
           <img
             className="px-10 w-[100%] lg:h-auto md:h-96 "
-            src="./public/about/WhyChooseImg-DcLuBkcf.png"
+            src="public/about/WhyChooseImg-DcLuBkcf.png"
             alt=""
           />
         </div>
